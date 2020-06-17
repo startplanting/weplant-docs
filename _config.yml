@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+
+title: Weplant Documentation
+description: Trillion Tree Campaign
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
