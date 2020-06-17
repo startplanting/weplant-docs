@@ -67,8 +67,8 @@ WooCommerce Stores will be able to allow buyers to plant trees during checkout p
 
 Support for this plugin is provided by:
 
-Plant-for-the-Planet Foundation
-Am Bahnhof 1,
-Uffing Am Staffelsee
-82449, Bavaria
+Plant-for-the-Planet Foundation<br/>
+Am Bahnhof 1,<br/>
+Uffing Am Staffelsee<br/>
+82449, Bavaria<br/>
 Germany
