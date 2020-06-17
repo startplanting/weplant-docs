@@ -56,7 +56,7 @@ __Requirements:__
 
 __Declaration:__
 
-_This feature is in development stage, only Beta access available._
+_This feature is in development stage_
 
 #### 5. Woocommerce Support _(Future Releases)_
 
