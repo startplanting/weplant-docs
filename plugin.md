@@ -21,7 +21,7 @@ __Steps to Enable Treecounter shortcode -__
 9. Use it on any Wordpress Page/Post
 
 If you want display multiple treecounters on your website. Simply replace `profile="slug"` by your profile slug.
-For eg. in [https://www.trilliontreecampaign.org/t/felix-finkbeiner-1](https://www.trilliontreecampaign.org/t/felix-finkbeiner-1) `felix-finkbeiner-1` is the `slug`. So your shortcode for this profile will be `[weplant profile="felix-finkbeiner-1"]`
+For eg. in `https://www.trilliontreecampaign.org/t/felix-finkbeiner-1` the slug is `felix-finkbeiner-1`. So your shortcode for this profile will be `[weplant profile="felix-finkbeiner-1"]`
 
 #### 2. Projects Shortcode Shortcode _(Coming Soon)_
 
