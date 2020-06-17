@@ -4,7 +4,7 @@ Share your tree plating progress by embeding your treecounter to your website.
 
 ### usage -
 
-replace `slug` in the below source url by your profile slug. For eg. in https://www.trilliontreecampaign.org/t/felix-finkbeiner-1 felix-finkbeiner-1 is the slug. So your shortcode for this profile will be [weplant profile="felix-finkbeiner-1"]
+replace `slug` in the below source url by your profile slug. For eg. in https://www.trilliontreecampaign.org/t/felix-finkbeiner-1  `felix-finkbeiner-1` is the slug. So your shortcode for this profile will be `[weplant profile="felix-finkbeiner-1"]`
 
 __profile treecounter__
 
