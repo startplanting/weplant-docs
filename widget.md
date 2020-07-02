@@ -4,7 +4,7 @@ Share your tree plating progress by embeding your treecounter to your website.
 
 ### usage -
 
-replace `slug` in the below source URL by your profile slug. For eg. in `https://www.trilliontreecampaign.org/t/felix-finkbeiner-1` the slug is `felix-finkbeiner-1`. So the source URL will be `https://widget.trilliontreecampaign.org/?profile=felix-finkbeiner-1`
+replace `slug` in the below source URL by your profile slug. For eg. in the following profile URL `https://www.trilliontreecampaign.org/t/felix-finkbeiner-1` the slug is `felix-finkbeiner-1`. So the source URL will be `https://widget.trilliontreecampaign.org/?profile=felix-finkbeiner-1`
 
 __profile treecounter__
 
