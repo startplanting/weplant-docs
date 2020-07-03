@@ -1,4 +1,4 @@
-# Plant-for-the-Planet Plugin
+# Plant for the Planet Plugin
 
 Weplant plugin is developed by [Plant-for-the-Planet Foundation](https://www.plant-for-the-planet.org) for extending the functionality of the [Trillion Tree Campaign App](https://www.trilliontreecampaign.org) to wordpress.
 
