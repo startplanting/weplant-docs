@@ -54,6 +54,10 @@ __Requirements:__
 * API Access Key of your TTC Account
 * Treecount Registered on TTC Profile
 
+__How to Enable:__
+
+To enable this development feature `WEPLANT_DONATIONS` should be defined as `true` in wp-config.php
+
 __Declaration:__
 
 _This feature is in development stage_
