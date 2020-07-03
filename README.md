@@ -2,5 +2,5 @@ Official Documentation for Weplant Plugin and Trillion Tree Campaign Widget. Ext
 
 ### Get Started
 
-* [Weplant Plugin](plugin.md)
+* [Plant for the Planet Plugin](plugin.md)
 * [Trillion Tree Campaign Widget](widget.md)
