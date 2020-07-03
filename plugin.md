@@ -8,6 +8,8 @@ Weplant plugin is developed by [Plant-for-the-Planet Foundation](https://www.pla
 
     [weplant profile="slug"]
     
+    [weplant]
+    
 __Steps to Enable Treecounter shortcode -__
 
 1. Activate Weplant Plugin
@@ -22,6 +24,8 @@ __Steps to Enable Treecounter shortcode -__
 
 If you want display multiple treecounters on your website. Simply replace `profile="slug"` by your profile slug.
 For eg. in `https://www.trilliontreecampaign.org/t/felix-finkbeiner-1` the slug is `felix-finkbeiner-1`. So your shortcode for this profile will be `[weplant profile="felix-finkbeiner-1"]`
+
+If no profile argument it passed, the global trillion treecounter is displayed.  
 
 #### 2. Projects Shortcode Shortcode _(Coming Soon)_
 
