@@ -13,14 +13,12 @@ Weplant plugin is developed by [Plant-for-the-Planet Foundation](https://www.pla
 __Steps to Enable Treecounter shortcode -__
 
 1. Activate Weplant Plugin
-2. Go to Tree Settings -> Treecounter
-3. Add your Trillion Tree Campaign Profile Link in the Input Field
-4. Click on Save Changes
-5. Go to Tree Settings
-6. Under Settings, Check/Tick Treecounter option
-7. Click on Save Changes
-8. Your Treecounter Shortcode will apear in a box below
-9. Use it on any Wordpress Page/Post
+2. Go to Tree Settings
+3. Under Settings, Check/Tick Treecounter option
+4. Add your Trillion Tree Campaign Profile Link in the Input Field
+5. Click on Save Changes
+6. Your Treecounter Shortcode will apear in a box below
+7. Use it on any Wordpress Page/Post
 
 If you want display multiple treecounters on your website. Simply replace `profile="slug"` by your profile slug.
 For eg. in `https://www.trilliontreecampaign.org/t/felix-finkbeiner-1` the slug is `felix-finkbeiner-1`. So your shortcode for this profile will be `[weplant profile="felix-finkbeiner-1"]`
