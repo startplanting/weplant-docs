@@ -1,1 +1,1 @@
-
+# Bedrock Setup for Wordpress
